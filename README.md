@@ -1,2 +1,3 @@
+REMOTE
 # Git-GitHub5Merge
-Créer un conflit expres pour apprendre à la résoudre
+Créer un conflit expres pour apprendre à le résoudre
